@@ -1,6 +1,6 @@
 {
   "task":{
-    "program": ["main.py"],
+    "program": ["main.py", "main.cpp"],
     "submit": "main.py",
     "testdir": "test"
   }
