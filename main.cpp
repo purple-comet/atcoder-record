@@ -1,4 +1,4 @@
-// 本物のmain.cppは.config内 acc configから調べられる
+// 本物のmain.cppは/home/nodoka/.config/atcoder-cli-nodejs/templates/main.py
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;
